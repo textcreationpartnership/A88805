@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The debauched cavalleer: or the English Midianite. Wherein are compared by way of parallel, the carriage, or rather miscarriage of the cavalleeres, in the present reigne of our King Charles, with the Midianites of old. Setting forth their diabolicall, and hyperdiabolicall blaspemies, execrations, rebellions, cruelties, rapes, and robberies. / Penned by G.L. and C.L. for publique good.</title>
+            <author>Lawrence, George, 1615-1695?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88805</idno>
+            <idno type="STC">Wing L656</idno>
+            <idno type="STC">Thomason E240_43</idno>
+            <idno type="STC">ESTC R2897</idno>
+            <idno type="EEBO-CITATION">99872220</idno>
+            <idno type="PROQUEST">99872220</idno>
+            <idno type="VID">158293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158293)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E240[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The debauched cavalleer: or the English Midianite. Wherein are compared by way of parallel, the carriage, or rather miscarriage of the cavalleeres, in the present reigne of our King Charles, with the Midianites of old. Setting forth their diabolicall, and hyperdiabolicall blaspemies, execrations, rebellions, cruelties, rapes, and robberies. / Penned by G.L. and C.L. for publique good.</title>
+                  <author>Lawrence, George, 1615-1695?</author>
+                  <author>Love, Christopher, 1618-1651.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.N. for Henry Overton, in Popes-head Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>G. L. = George Lawrence; C. L. = Christopher Love.</note>
+                  <note>Annotation on Thomason copy: "Octo: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158293:1" rendition="simple:additions"/>
+            <p>The Debauched CAVALLEER: <hi>Or the Engliſh</hi> MIDIANITE.</p>
+            <p>Wherein are compared by way of Pa<g ref="char:EOLhyphen"/>rallel, the Carriage, or rather Miſcarriage of the <hi>Cavalleeres,</hi> in the preſent Reigne of our King <hi>Charles,</hi> with the <hi>Midia<g ref="char:EOLhyphen"/>nites</hi> of old.</p>
+            <p>Setting forth their Diabolicall, and Hyperdiabo<g ref="char:EOLhyphen"/>licall Blaſpemies, Execrations, Rebellions, Cruel<g ref="char:EOLhyphen"/>ties, Rapes, and Robberies.</p>
+            <q>
+               <hi>Doe unto them, as unto the Midianites, as to</hi> Siſera, <hi>as to</hi> Jabin <hi>at the brooke of Kiſon,</hi> 
+               <bibl>Pſal. 83.9.10.</bibl>
+            </q>
+            <p>Penned by G. L. and C. L. for publique good.</p>
+            <p>LONDON, Printed by L. N. for HENRY OVERTON, in Popes-head Alley. MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:158293:2"/>
+            <head>The debauch'd CAVALLEER, or the Engliſh MIDIANITE.</head>
+            <opener>
+               <salute>Christian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>E pleaſed to conſider, that the intent of this enſuing <hi>Diſcourſe,</hi> is wholly to render a viprous brood of prodi<g ref="char:EOLhyphen"/>gious Incendiares both of Church,<note place="margin">Sic Canibus Catulos ſimiles ſic matribus hoedos. Noram. Sic parvis compo<g ref="char:EOLhyphen"/>nere magna ſo<g ref="char:EOLhyphen"/>lebam. Virgill.</note> and State, more odi<g ref="char:EOLhyphen"/>ous in the eyes of all the Kings moſt loyall, and religious Subjects throughout this <hi>Kingdom,</hi> that they may here<g ref="char:EOLhyphen"/>by be excited to contribute, both their Prayers, Subſtance, and all the Intereſt they have with God, and man, againſt theſe debauched Cavalliers either for their ſequeſtration from the preſence of our King, or for their totall extirpation out of this Realme of England.</p>
+            <p>In which Diſcourſe, ſhall be diſpatched theſe two particulars.</p>
+            <p n="1">1. Concerning the name of <hi>Cavalleers.</hi>
+            </p>
+            <p n="2">2. Concerning the degeneration of theſe wretches from the name of <hi>Cavallier,</hi> by ſeverall characters <hi>(a)</hi> running parrallel with the <hi>Midianites,</hi> and who did ſet themſelves againſt the Iſraell of God, and the God of Iſrael.</p>
+            <p n="1">
+               <note place="margin">Condemnari ne<g ref="char:EOLhyphen"/>mo debet, ante<g ref="char:EOLhyphen"/>quam nomen e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us delatum ſil.</note>1. Concerning the name of <hi>Cavallier.</hi>
+            </p>
+            <p>There is a rule in the Civill-law, none ought to be condemned be<g ref="char:EOLhyphen"/>fore his name be knowne. Since therefore we come to condemne the damnable practiſes of thoſe men who beare this name, we ſhall endeavour to make it knowne unto the world.</p>
+            <p>The word <hi>Cavallier</hi> uſed amongſt us here in England, is derived
+<pb n="3" facs="tcp:158293:2"/> from the Italian word <hi>Cavallero,</hi> which ſignifies an Horſe-rider, as that word is deriv'd from <hi>Cavallo,</hi> which ſignifies an horſe, whence the Italians have this uſuall ſpeech amongſt them, <hi>monte Cavallo,</hi> Mount, or Get upon your Horſe.</p>
+            <p>There is another word like unto it in ſound, and uſed amongſt us here in England, and that is <hi>Chivalier,</hi> being derived from the french word <hi>Chevalier,</hi> which ſignifies an horſeman, as that word is deri<g ref="char:EOLhyphen"/>ved from <hi>Cheval,</hi> an horſe, whence the Frenchmen have this uſuall ſpeech amonſt them, <hi>Mounte Cheval,</hi> up and ride, and whence alſo our engliſh Noblemen in their tilting have the notion of <hi>Chivalrie</hi> amongſt them.</p>
+            <p>We are not ignorant, that ſome Ancients deduce the name of <hi>Ca<g ref="char:EOLhyphen"/>vallier</hi> from the latine word, <hi>Gaballus,</hi> which ſignifies a great horſes; as if the name <hi>Cavallier,</hi> were as much as <hi>Caballier, V,</hi> and <hi>B,</hi> being letters which are ſymbollicall, and ſo being tranſ-elemented, they ea<g ref="char:EOLhyphen"/>ſily ſally forth, and run one into the other. And the Greekes <hi>Becman</hi> doth obſerve, derive it from the Greek compound <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from the weighty and burdenſome ſaddles, which are caſt upon the backs of great Horſes.</p>
+            <p>However, though not utterly diſallowing theſe two laſt derivati<g ref="char:EOLhyphen"/>ons, becauſe they are ingenuous, we ſhall accurre unto the former, both the French, and the Italian ſatisfaction, and ſo much the rather, becauſe our <hi>Cavalliers</hi> here in England, are either French, or Italian, at leaſt in the affection, yet notwithſtanding we ſhall eſpecially a<g ref="char:EOLhyphen"/>gree to the Italian originall, as the moſt proper head radix, and foun<g ref="char:EOLhyphen"/>taine.</p>
+            <p>The name it ſelf, we confeſſe, is honourable, and is equivalent with our <hi>Miles, Armiger, Armigerans, vel Equus auratus,</hi> which is a Knight, a Souldier, or a golden horſeman. But theſe unworthy miſ<g ref="char:EOLhyphen"/>creants have made the very name a reproach, as the <hi>Antichriſtian Prelates,</hi> the name of <hi>Biſhop,</hi> which in Saint <hi>Pauls</hi> time was wor<g ref="char:EOLhyphen"/>thy of <hi>double honour,</hi> but by reaſon of their tyrannicall uſurpation, is (as old <hi>father Latimer</hi> expreſſeth it) worthy of a more than a <hi>dou<g ref="char:EOLhyphen"/>ble,</hi> (even) a <hi>Treble reproach.</hi>
+            </p>
+            <p>Thus according to the Phyſitians, <hi>Corruptio optimi, fit peſſima,</hi> the beſt thing being corrupted proves the worſt: and a good name being abuſed, is now become moſt odious.</p>
+            <p>And therfore now, ſince the name of <hi>Cavallier</hi> is known what it is, we now deſcend to ſhew in the ſecond particular how it is for the preſent abaſed, and abuſed by theſe <hi>ſons of Belial,</hi> who have degenera<g ref="char:EOLhyphen"/>ted
+<pb n="4" facs="tcp:158293:3"/> from the honourable reputation of the terme of <hi>Cavallier,</hi> as ſhall appeare in theſe enſuing Charactars, paralleld with the <hi>Midianite.</hi>
+            </p>
+            <p>
+               <hi>The Characters of them are gathered out of the Bookes of <hi>Numbers,</hi> and <hi>Judges.</hi>
+               </hi>
+            </p>
+            <div n="1" type="part">
+               <head>1. The firſt Character of the <hi>Midianites.</hi>
+               </head>
+               <p>They were full of <hi>rage,</hi> and <hi>blaſphemy,</hi> when the <hi>Altar</hi> of <hi>Baal</hi> was throwne downe, <hi>Judg.</hi> 6.28, 29, 30, 33.</p>
+               <p>So are the <hi>Cavalleers,</hi> what makes them rage, but that the Prieſts, and <hi>Altars</hi> of <hi>Baal;</hi> are throwing downe amongſt us? and what makes their blaſphemies breake forth, but their rage? according to the ſpeech of the Prophet <hi>Iſaiah c.</hi> 8. <hi>v.</hi> 21. <hi>They ſhall fret themſelves, and curſe their God.</hi>
+               </p>
+               <p>Now to give a liſt of their raging blaſphemies, our joynts trem<g ref="char:EOLhyphen"/>ble, our hands ſhake, and our pens do quiver; yet how ever, to render them more odious to all the world, we could do no leſſe, then depaint them out in their owne labours, and publiſh to the world ſome of thoſe blaſphemous execrations, which upon certain information we have gatherered and inſerted here as followes,</p>
+               <p>
+                  <label>I.</label>
+                  <note n="(a)" place="margin">Whereas the Apoſtle did avow, and Heathens did confeſſe, that we live, move, and have our being, onely in the li<g ref="char:EOLhyphen"/>ving God. Act. 17.24. yet theſe men ſay, they live, move, &amp; have their being in a mortall man.</note> We drinke a health to King Charles, in whom we live, move, and have our being.</p>
+               <p>
+                  <label>II.</label>
+                  <note n="(b)" place="margin">Lo behold nthat Goſpel which is the only means to keep men from everlaſting confuſion, do theſe men wiſh confuſion to us, throwing away the onely plaiſter that can cure their wounds, and the onely remedy to ſave their ſoules. Procul, o procul eſte prophani. Vir.</note> We drink a health to the confuſion of the Goſpell of Ieſus Chrſt.</p>
+               <p>
+                  <label>III.</label>
+                  <note n="(c)" place="margin">A ſpeech ful of blaſphemy if they meant the true God, whom he doth ſerve, or at leaſt of uncharitablenes, alſo adiudg<g ref="char:EOLhyphen"/>ing him to worſhip a falſe God.</note> We drink a health to the confuſion of <hi>PIMM'S</hi> God.</p>
+               <p>
+                  <label>IIII.</label>
+                  <note n="(d)" place="margin">Here is an unparalleld blaſphemy, contrary to the principles of Nature, Reaſon, and Religion.</note> We will drink, and be drunk, and whore, and be damnd, and will not be beholding to God to ſave us.</p>
+               <p>
+                  <label>V.</label>
+                  <note n="(e)" place="margin">The round heads might rather wiſh to be out of hea<g ref="char:EOLhyphen"/>ven, with thoſe who are termed by them Roundheads, then be in Heaven with ſuch ſwearing &amp; and blaſphemous Cavalliers, if it were poſſible that ſuch ſins ſhould reigne in Heaven.</note> We had rather be in hell with our <hi>Comrades,</hi> then in Heaven with the <hi>Roundheads.</hi>
+               </p>
+               <pb n="5" facs="tcp:158293:3"/>
+               <p>Theſe five particulars were reported by a <hi>Godly Gentleman</hi> who went with a <hi>meſſage</hi> to the <hi>King,</hi> who declared that he heard all theſe himſelfe, which <hi>Mr: Norton a Miniſter</hi> now about the <hi>Army</hi> recei<g ref="char:EOLhyphen"/>ved from his mouth, and ſent up in a letter to <hi>Mr: George Walker</hi> a Reverend Paſtor of <hi>a Church in Watlingſtreete here in London</hi> which Letter by him was delivered to the Parliament, that the wor<g ref="char:EOLhyphen"/>thies alſo might read thoſe horrid Epiſtolarie Execrations.</p>
+               <p>
+                  <label>VI.</label>
+                  <note n="(f)" place="margin">Oh to what ſenſleſſe ſtupiditie are theſe men grown to, who have forgot their maker! and know not the Anſwer to the firſt que<g ref="char:EOLhyphen"/>ſtion in the childs Cate<g ref="char:EOLhyphen"/>chiſme, Who made you? in<g ref="char:EOLhyphen"/>ſtead of an<g ref="char:EOLhyphen"/>ſwering God, they ſay, The Divell.</note> The <hi>Divill that made us</hi> Damme us.</p>
+               <p>This was avowed in a Pulpit, by that reverend Preacher of Gods word <hi>Mr: Simpſon</hi> who came lately from <hi>Holland.</hi>
+               </p>
+               <p>
+                  <label>VII.</label>
+                  <note n="(g)" place="margin">It is well we know who are the <hi>Round<g ref="char:EOLhyphen"/>heads</hi> in the <hi>Cavalliers</hi> opi<g ref="char:EOLhyphen"/>nion; <hi>viz.</hi> All thoſe who will not wiſh their owne damna<g ref="char:EOLhyphen"/>tion; rather our tongues ſhould cleave to our mouths, than ſuch hel<g ref="char:EOLhyphen"/>liſh language ſhould pro<g ref="char:EOLhyphen"/>ceed from us as this. 2 <hi>Parallel.</hi>
+                  </note> A great Company of <hi>Cavalliers</hi> comming to plunder a Town, they ſwore, that they would robbe, and ſlay all the <hi>Round-heads</hi> in the Towne; but ſome of that Raſcally Crew demanding how they might know the <hi>Round-heads</hi> from the reſt of the Inhabitants. An<g ref="char:EOLhyphen"/>ſwere was immediatly returned, they would make them wiſh <hi>God Damme us,</hi> and all who would not wiſh <hi>God to Damme them,</hi> they would rob and ſlay for <hi>Round-heads.</hi>
+               </p>
+               <p>And thus by their Notorious Blaſphemies, they doe ſome nota<g ref="char:EOLhyphen"/>ble deſpight, and wrong even to the Spirit of Grace, the Holy Ghoſt <hi>Heb. ch.</hi> 10 <hi>v.</hi> 29.</p>
+               <p>Wherefore we lift up our hearts to <hi>Heaven</hi> in the words of the <hi>Pſalmiſt,</hi> Remember this O Lord, that the Enemies have reproched thee; and that this fooliſh people have blaſphemed thy Name, read <hi>Pſalm.</hi> 74.18. Thus we leave them to God to whom Vengeance belongs, that he may execute on them the Iudgment written, And thus we have done with the firſt charracter.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. The ſecond <hi>Character</hi> of the <hi>Midianites.</hi>
+               </head>
+               <p>They were men of Cruelty and Oppreſſion, Iudg. 6.2.4. becauſe of the <hi>Midianites,</hi> The children of Iſraell made them Dens which are in the Mountaynes, and Caves, and ſtrong holds, and they En<g ref="char:EOLhyphen"/>camped againſt them and deſtroyed the Increaſe of the Earth and left no Suſtenance for <hi>Iſrael</hi> neither Sheepe nor Oxen.<note n="(h)" place="margin">O quot Ne<g ref="char:EOLhyphen"/>rones, quot Do<g ref="char:EOLhyphen"/>mitiani, quod Commodi, quot Baſſiani, quot Imites Dioniſii haſce peragra<g ref="char:EOLhyphen"/>vere terras. Sic <hi>Benzo</hi> in Hiſtor. <hi>Indica.</hi>
+                  </note> &amp;c. and thus the Holy Ghoſt proceeds to emblazon, and ſet forth their opreſſing Cruelties.</p>
+               <p>Now let the world judge whether * the <hi>Cavalliers</hi> of our time do not fully anſwer the oppreſſions of thoſe <hi>Midianites</hi> ſpoken of in the world; and many parts of this Kingdome can by ſad experience give teſtimony hereunto. How many of the Kings faithfull and loy<g ref="char:EOLhyphen"/>all
+<pb n="6" facs="tcp:158293:4"/> Subjects have beene forced to leave their dwellings? and (as the <hi>Iſraelites</hi> when purſued by the <hi>Midianites</hi>) to run to the denns and caves of the earth? Thoſe who were able to relieve and feed others, how are they now forced to beg their owne bread? and thoſe who had <hi>faire houſes</hi> to <hi>dwell in,</hi> good <hi>beds</hi> to <hi>lie on,</hi> how are they con<g ref="char:EOLhyphen"/>ſtrained to lie in the <hi>open fields?</hi> (leſt he ſhould be expoſed to<note n="(i)" place="margin">Vivitu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>apto, non hoſpes ab hoſpi<g ref="char:EOLhyphen"/>tutus. <hi>Ovid.</hi> Vitur ex rapto, non hoſpes ab hoſpite ſoſpes. <hi>Palin.</hi>
+                  </note> their rage and robberies) who have nothing but a <hi>Stone</hi> for their <hi>Pillow,</hi> the <hi>Bank</hi> for a <hi>Bolſter,</hi> the <hi>Earth</hi> for their <hi>Bed,</hi> the <hi>Graſſe</hi> for their <hi>Rugg,</hi> the <hi>Trees</hi> for their <hi>Curtaines,</hi> the <hi>Hedges</hi> for their <hi>Vailance,</hi> and are like to have (if not ſeaſonably ſupplied) the <hi>Winter Snow</hi> for their <hi>Sheet,</hi> the <hi>Skie</hi> for their <hi>Canopie,</hi> and the <hi>chirping Birds</hi> of the morning to be their <hi>Alarme,</hi> to awake them. To bring up the <hi>Parallel</hi> cloſe: as <hi>Midian</hi> did deſtroy the encreaſe of the Earth, and left no ſuſtenance for <hi>Iſrael,</hi>
+                  <note n="(l)" place="margin">
+                     <hi>They may well ſay of themſelves, as the people ſaid of them<g ref="char:EOLhyphen"/>ſelves in</hi> Sal<g ref="char:EOLhyphen"/>vians <hi>dayes,</hi> Iniuſti ſunt Barbari, &amp; nos hoc ſumus. Avari ſunt Barbari, &amp; nos hoc ſumus Infi<g ref="char:EOLhyphen"/>deles ſunt Bar<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri &amp; noc hoc ſumus. Impu<g ref="char:EOLhyphen"/>dici ſunt Bar<g ref="char:EOLhyphen"/>bari &amp; nos hoc ſumus. Omni<g ref="char:EOLhyphen"/>um denique Improbitatus &amp; impurita<g ref="char:EOLhyphen"/>tum pleni ſunt Barbari, &amp; nos hoc ſumus. <hi>Salvian. l. 3. de Gubernat. Dei. 3.</hi> Paral.</note> neither Sheepe, nor Oxen, nor other beaſts; ſo have<note n="(k)" place="margin">Populus Inviden<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>io<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Inimicior, Im<g ref="char:EOLhyphen"/>placabilior ſub Sole, Solis nul<g ref="char:EOLhyphen"/>lus eſt Judaeis. <hi>Buxtorf. Sy<g ref="char:EOLhyphen"/>nag. Iudaic.</hi> c. <hi>22.</hi> p. <hi>426.</hi>
+                  </note> theſe cruell <hi>Cavalliers</hi> deſtroyed the fruits of the Earth in many parts of this Kingdome, ſpoiled <hi>Corne</hi> in the ground, burned much up when gathered into the <hi>Barne,</hi> or ſtanding in the <hi>Reeke;</hi> and as for taking away their ſubſtance, they have by violence broken into houſes, taken away all houſhould ſtuffe, and proviſion left nothing but naked walls, inſomuch that men had not bread for their Wives, and Children. And as for taking away the beaſts (as the <hi>Midianites</hi> did from <hi>Iſrael</hi>) to make that true, they have driven mens <hi>Deere</hi> out of their <hi>Parkes,</hi> mens <hi>Sheep</hi> out of their <hi>Folds,</hi> mens <hi>Oxen</hi> out of their <hi>Ploughes,</hi> and <hi>Horſes</hi> from their <hi>Harrowes,</hi> con<g ref="char:EOLhyphen"/>ſtraining men to part with their horſes, to further them in their un<g ref="char:EOLhyphen"/>warrantable Deſignes. And thus we have alſo done with the ſecond <hi>Character.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>The third <hi>Character</hi> of the <hi>Midianites.</hi>
+               </head>
+               <p>They were <hi>rambling Renagadoes;</hi> now here now there, one while at <hi>Gaza,</hi> Iudg. 6.4. another while by <hi>Ophrah,</hi> Iudg. 6.11. ano<g ref="char:EOLhyphen"/>ther time at <hi>Baals Alter</hi> and the <hi>Grove,</hi> Iudg. 6.28.29. another time in the <hi>Vally of Iezreel.</hi> Iudg. 6.33. another time at <hi>Bethſhittah</hi> towards <hi>Zererath,</hi> another time at the border of <hi>Abel-Meholuh</hi> unto <hi>Tabath,</hi> Iudg. 7.22. and another while at the <hi>Rock</hi> of <hi>Oreb,</hi> and the <hi>Wine-preſſe</hi> of <hi>Zeeb. v.</hi> 25. one while in <hi>Karkor,</hi> Iudg. 8.10. and another while at <hi>Tabor,</hi> Iudg. 8.8. and ſtill to ſurprize <hi>Iſrael.</hi>
+               </p>
+               <p>Thus do<note n="(m)" place="margin">who are like the vaine and Light per<g ref="char:EOLhyphen"/>ſons of <hi>Abime<g ref="char:EOLhyphen"/>lech,</hi> whom the <hi>Septuagint</hi> call perſons maz'd and affrighted out of their ſenſes, who were hired with 70. pie<g ref="char:EOLhyphen"/>ces of ſilver out of the houſe of <hi>Baol-Berith,</hi> whom <hi>Vatablus</hi> termes <hi>Inſta<g ref="char:EOLhyphen"/>biles,</hi> unſtable, rowling from Towne to Towne, from Citie to City, from Shire to Shire, and from one Kingdome to another.</note> our <hi>Cavalliers</hi> rove from one place to another. Firſt, from <hi>London</hi> to <hi>Yorke,</hi> from <hi>Yorke</hi> to <hi>Hull,</hi> then to <hi>Beverley,</hi> then to <hi>Yorke</hi> againe; thence to <hi>Warwicke,</hi> thence to <hi>Banbury,</hi> then to <hi>Warwicke</hi> againe, thence to <hi>Coventry,</hi> thence to <hi>Nottingam,</hi> thence
+<pb n="7" facs="tcp:158293:4"/> to <hi>Worceſter,</hi> thence to <hi>Shrewsbury,</hi> and the Lord knows how ſoone they may come againe to <hi>London.</hi>
+               </p>
+               <q>—Nam toties verſa eſt fortuna locorum.</q>
+               <p>And thus we have done alſo with the third <hi>Character.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>The fourth <hi>Character</hi> of the <hi>Midianites.</hi>
+               </head>
+               <p>* They were a crafty and a <hi>ſubtile</hi> Generation to beguile <hi>Iſrael</hi> and enſnare them with their <hi>wiles,</hi> ſeeking to get <hi>Iſrael</hi> at an advantage <hi>Numb.</hi> 25.18.</p>
+               <p>So are our <hi>Cavalliers</hi> it ſeems, the <hi>Serpentine</hi> brood, a <hi>ſubtile Gene<g ref="char:EOLhyphen"/>ration:</hi> witneſſe the faigned <hi>Letters</hi> they ſend, the falſe <hi>Alarms</hi> they ſound, the ſuddaine <hi>ſurpriſals</hi> they make, to take us at an advantage by Policie; for never had they yet the power to ſtand before the face of our Army.</p>
+            </div>
+            <div n="5" type="part">
+               <head>The fifth <hi>Character</hi> of the <hi>Midianites.</hi>
+               </head>
+               <p>They were uncleane both by bodily and ſpirituall uncleanneſſe. <hi>Numb.</hi> 25.6.18.</p>
+               <p>We put <hi>ſpirituall</hi> and <hi>bodily uncleanneſſe</hi> together, becauſe one ſel<g ref="char:EOLhyphen"/>dome goes without the other. As for <hi>bodily uncleanneſſe,</hi> wee will not accuſe them how many they abuſed; you may take that <hi>ex con<g ref="char:EOLhyphen"/>ceſſio,</hi> for they ſaid themſelves (as hath beene intimated in the fourth Particular of their Blaſphemies) that they would Whore, Drinke, and be Damned, wherefore if they doe not whore, at leaſt they lie, both which Sinnes God will judge; yet we cannot but give you the Report of the Country, of two <hi>Cavalliers</hi> who raviſhed one <hi>Maide</hi> while another ſtood by and held the Horſes: of 7. more, who abuſed another, before ſhee could be releaſed from them; beſides the many Rapes and Chamber-Adulteries, which we leave to the All-ſeeing Eyes and Revenging Hand of Iuſtice, and as for <hi>Spirituall <g ref="char:V">Ʋ</g>nclean<g ref="char:EOLhyphen"/>neſſe,</hi> which is Idolatry, that cannot be free from their Campe, ha<g ref="char:EOLhyphen"/>ving ſo many <hi>Papiſts</hi> and prophane ones in their unhallowed and <hi>Pſeudo-Catholique</hi> Army.</p>
+            </div>
+            <div n="6" type="part">
+               <head>6 The Sixt <hi>Character</hi> of the <hi>Midianites.</hi>
+               </head>
+               <p>They were frequent in plotting Combinations with the Children of the Eaſt, the Amalekites and others to <hi>diſcomfit Iſrael.</hi> Iudg. 6.33. Iudg. 7.12. Iudg. 6.3.</p>
+               <p>So doe theſe<note n="(n)" place="margin">Chriſoſto<g ref="char:EOLhyphen"/>mus loquitur in Holmilia u<g ref="char:EOLhyphen"/>nicam ad po<g ref="char:EOLhyphen"/>pulum Antio<g ref="char:EOLhyphen"/>chienne.</note> 
+                  <hi>Cavalliers</hi> combine with the Praelaticall partie, who are the children of the Eaſt, and with Papiſts who are theſe <hi>A<g ref="char:EOLhyphen"/>malekites,</hi> with perſons accuſed of treaſon, with divers Delinquents, and Incendiaries both to Church and State; To give you a view of their Plots and Combinations, looke backe to their Indeavours of Surpriſing the ſixe Worthies of <hi>Parliament,</hi> their Plots to enter the
+<pb n="8" facs="tcp:158293:5"/> Towne of <hi>Hull,</hi> theit late deſperate Plot to blow up our L. Generall in <hi>Worce<g ref="char:EOLhyphen"/>ſter.</hi> Yet to all theſe Plots we may ſay as to the Conſpirators of old. <hi>Aſſociate your ſelves together, O ye people, and ye ſhall be broken in pieces &amp;c.</hi> Eſ. c. 8. v. 9.10.</p>
+               <p>
+                  <note place="margin">7. One <hi>Cha<g ref="char:EOLhyphen"/>racter</hi> more of the <hi>Mid<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>nites.</hi>
+                  </note>They were ſubdued, <hi>Iudg.</hi> 8.28. <hi>Thus was Midian ſubdued before the children of Iſrael, ſo that they lifted up their heads no mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, &amp; the Country was then in quietnes.</hi>
+               </p>
+               <p>More is the pitty that the <hi>Cavalliers</hi> doe not run parallel with them in this <hi>Character;</hi> yet they are not ſubdued, and yet is not our Land in quietnes. <hi>But doe unto them O Lord as unto the Midianites,</hi>
+                  <note place="margin">Read <hi>Pſ.</hi> 83.9.10.11.15.16.17.18. <hi>verſes.</hi>
+                  </note> 
+                  <hi>as to Siſera and Iabin at the brook of Kiſon which periſhed at Endo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> they became as dung for the earth: make their No<g ref="char:EOLhyphen"/>bles like O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>b and Zeeb, &amp;c.</hi>
+               </p>
+               <p>Chriſtian Reader, thou haſt preſented to thy view by theſe <hi>Characters</hi> that which might make thine eares tingle, thy heart tremble, thy joynts ſhatter, and blood to ſtartle in thy face, that the Name of the living God ſhould be thus blaſphemed by mortall men. Oh! ſtand amaz'd, and wonder, that an holy God ſhould ſuffer ſuch helliſh Blaſphemies to goe ſo long unpuniſhed, that they (being but wormes under his feet) he ſhould not trample them to powder, and make them laſting Monuments of everlaſting vengeance. God lets them live ſo long to make your riſing more viſible, and their fall more diſmall: wait but a while and you ſhall ſee what ſlaughters your God will make; he is whetting his glittering Sword, lifting up himſelfe on high, his hand taking hold on juſtice; their blow is comming, their doome approaching, their judement neere, their ſin ripe, the ſickle of Gods wrath will ſoone cut them downe, they ſhall wither like the graſſe, be ſcattered like chafte before the winde, and conſumed like ſtubble before the everlaſting burnings. Oh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thinke no time too long, no labour too great, no coſt too much, in ſo good a cauſe, againſt ſo bad enemies: they are the greateſt enemies to Chriſt that ever this land bred; they have lifted vp ſwords againſt him, drank healths to the confuſion of him, they defile his Name, abhor his Worſhip, throw out his Ordinances, oppoſe his Goſpel, maligne his people, and would lay all his honour in the duſt; yea they would infringe your liberties, enſnare your con<g ref="char:EOLhyphen"/>ſciences, pull Lawes up to throw you downe; they expect to be happy by your miſery, and rich by your poverty; theſe idle Vagrants would faine live by the labour of your hands and the ſweat of your browes: Oh! how can you hold your hands from theſe men of violence and blood, leſt that curſe come upon you of this Land which was denounced by the Prophet <hi>Ieremiah, c.</hi> 48. <hi>v.</hi> 10. <hi>Cuſed be he that doth the worke of the Lord negligently:</hi> and curſed be hee that keepeth back (in this caſe eſpecially) his ſword from blood. Wherfore turne your plate into money, your Coach-horſes into Warre-horſes, your Plough<g ref="char:EOLhyphen"/>ſhares into ſwords, and your pruning-hookes into ſpeares, and make ready for the Battell. Let us tell you, you have that marke to ſhoot at, at which God is aiming to have his arrowes ſtick in their ſides, and be drunk in their blood. O yee Inhabitants of <hi>England,</hi> in whoſe eyes Chriſt and the Goſpell, your Lawes and Liberties are Precious; goe on and proſper, up and be going, up and be doing, and up and be fighting, and the Lord be with you. If you will not, take heed leſt ye be found fighters againſt God, fellonious to your ſelves, rebellious to Nature, treacherous to your Countrey, injurious to poſterity, and infamous to eternity. Wherfore to conclude, as <hi>Moſes</hi> ſpake unto the people, in <hi>Numb.</hi> 31.3. ſaying. <hi>Arme ſome of your ſelves unto Warre, and let them goe againſt the Midianites, and avenge the Lord of Midian;</hi> and ſo doe you alſo a<g ref="char:EOLhyphen"/>gainſt the <hi>Debauched Cavalliers,</hi> or the <hi>Engliſh Midianites.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
